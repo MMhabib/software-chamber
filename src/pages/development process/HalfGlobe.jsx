@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { motion } from "motion/react";
-import { World } from "./Globe";
+import { World } from "./globe";
 
 export function GlobeDemo() {
   const globeConfig = {
