@@ -1,5 +1,5 @@
 import arrow from "../../assets/arrow.svg";
-import spotify from "../../assets/spotify.svg";
+import spotify from "../../assets/Spotify.svg";
 import fliqpay from "../../assets/fliqpay.svg";
 import SmartIdea from "../../components/SmartIdea";
 import logo from "../../assets/Logo .svg";
